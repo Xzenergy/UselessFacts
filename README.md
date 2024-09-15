@@ -1,4 +1,5 @@
 Useless Facts
+
 Welcome to the Useless Facts app! 🎉 This simple Python application provides you with an endless supply of fun, quirky, and totally useless facts to entertain and amaze your friends. Whether you're looking to kill time or just want to impress with random trivia, this app has got you covered.
 
 Features
